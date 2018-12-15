@@ -1,0 +1,3 @@
+uwsgi_params
+kzazy_nginx.conf
+db.sqlite3
