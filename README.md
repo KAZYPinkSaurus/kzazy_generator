@@ -1,0 +1,1 @@
+# kzazy_generator
